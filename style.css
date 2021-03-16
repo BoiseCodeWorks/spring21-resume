@@ -1,0 +1,10 @@
+/* NOTE create all variables at the :root to be used throughout the document */
+:root {
+  --primary: #153f98;
+  --secondary: #d6d64e;
+}
+
+
+h1 {
+  color: var(--primary);
+}
